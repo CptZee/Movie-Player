@@ -1,4 +1,4 @@
-# Narvelysa
+# Marvelysa
 
 A personal project as a gift to my girlfriend. This is a simple marvel movie player.
 
